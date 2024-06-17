@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Portfolio
+title: Annie's Portfolio
 
 # Your name to show in the footer
 author: Annie Wilcox
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://wilcox63.github.io"
+  Projects: "https://wilcox63.github.io"
 
 ################
 # --- Logo --- #
