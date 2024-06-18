@@ -13,7 +13,7 @@ Hello, my name is Anne Marie Wilcox, but you can call me Annie! I am currently a
 ### Contact Info
 
 - Email: wilcox63@msu.edu (see email icon in footnote for link)
-- Phone Number: 303-635-3050
+- Phone Number: 303-625-3050
 ### Education
 
 - Michigan State University 2025
