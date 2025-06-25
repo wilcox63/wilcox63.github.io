@@ -2,9 +2,9 @@
 layout: post
 title: Detroit Leadership Dossiers
 subtitle: Locally sponsored group project to create a prototype for the Detroit subset of the Documenters organization
-cover-img: /assets/img/football.jpg
-thumbnail-img: /assets/img/proj5.png
-share-img: /assets/img/football.jpg
+cover-img: /assets/img/detroit_skyline.jpg
+thumbnail-img: /assets/img/proj7.png
+share-img: /assets/img/detroit_skyline.jpg
 tags: [HTML, CSS, JS, Web Development, Web-scraping, Local Politics]
 author: Annie Wilcox, Samuel Corder, Ryan Hanks, Ryan Flanery, Minh Anh Dang
 ---
