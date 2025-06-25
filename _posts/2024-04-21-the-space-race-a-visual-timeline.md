@@ -10,7 +10,7 @@ comments: true
 mathjax: true
 author: Annie Wilcox
 ---
-Just for fun, here is an example of my work in stop motion animation!
+Just for fun, an example of my work in stop motion animation is linked below!
 
 [The Space Race: A Visual Timeline](https://www.youtube.com/watch?v=H0FjvmkSXTE)
 
