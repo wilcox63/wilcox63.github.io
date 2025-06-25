@@ -2,9 +2,9 @@
 layout: post
 title: Pokemon Team Building With Statistics
 subtitle: Individual project focusing on technical and accessible data visualization.
-cover-img: /assets/img/cars.jpg
-thumbnail-img: /assets/img/proj1.png
-share-img: /assets/img/cars.jpg
+cover-img: /assets/img/pokemon.jpg
+thumbnail-img: /assets/img/proj6.png
+share-img: /assets/img/pokemon.jpg
 tags: [Jupyter Notebook, Plotly, Seaborn, Matplotlib, Pokemon, Statistical Analysis]
 author: Annie Wilcox
 ---
