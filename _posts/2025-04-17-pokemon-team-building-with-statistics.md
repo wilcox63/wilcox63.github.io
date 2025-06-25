@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pokemon Data League: Team Building With Statistics
+title: Pokemon Data League - Team Building With Statistics
 subtitle: Individual project focusing on technical and accessible data visualization.
 cover-img: /assets/img/cars.jpg
 thumbnail-img: /assets/img/proj1.png
